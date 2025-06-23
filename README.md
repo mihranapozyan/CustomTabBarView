@@ -8,3 +8,10 @@ This project implements a customizable tab bar in SwiftUI using matched geometry
 - Custom styling and layout for better UX
 
 Ideal for apps that require a modern, flexible navigation interface.
+
+
+
+
+
+https://github.com/user-attachments/assets/1e002176-c18d-464e-bae0-52b1b01ef40d
+
